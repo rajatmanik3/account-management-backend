@@ -1,0 +1,10 @@
+{
+    "site": {
+        "name": "Appwrk",
+        "secret": "appwrk",
+        "url": "https://appwrk.com"
+    },
+    "db": {
+        "connection_string": "mongodb://localhost/appwrk"
+    }
+}
